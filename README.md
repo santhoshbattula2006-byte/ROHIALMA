@@ -1,6 +1,7 @@
 # AI Analyst Agent For Agriculture Analytics and Prediction 
 
-AgriMitra is an AI-powered agricultural advisory platform designed as a modular monolith.
+AI Analyst Agent For Agriculture Analytics and Prediction 
+is an AI-powered agricultural advisory platform designed as a modular monolith.
 
 > **CRITICAL RULE**
 > Never claim functionality is working unless it has been executed and verified.
